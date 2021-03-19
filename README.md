@@ -1,0 +1,2 @@
+# hosts
+Block suspicious sites.
