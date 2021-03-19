@@ -4,6 +4,12 @@
 # 0.0.0.0 example.com
 # ===============================================================
 
+# Router Block
+208.138.25.30
+0.0.0.0 190.111.25.133
+
+
+
 0.0.0.0 adtng.com
 0.0.0.0 5dimes.com
 0.0.0.0 5dimes.eu
@@ -18,11 +24,11 @@
 0.0.0.0 hychepsachi.pro
 0.0.0.0 visainformation.info
 0.0.0.0 coluami.com
-190.111.25.133
-208.138.25.30
-190.111.25.133
+
+
+
 0.0.0.0 nowdatarecovery.com
-190.111.25.133
+
 0.0.0.0 gmailc.com
 0.0.0.0 softserveclothing.com
 0.0.0.0 cudominer.com
