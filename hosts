@@ -40,7 +40,7 @@
 0.0.0.0 ualidarzi.com
 
 # ===============================================================
-# Web Surf Block
+# Web Surf Block / Malware
 0.0.0.0 adtng.com
 0.0.0.0 5dimes.com
 0.0.0.0 5dimes.eu
@@ -66,6 +66,7 @@
 0.0.0.0 bitspawn.com
 0.0.0.0 slicdeals.net
 0.0.0.0 vcdc.com
+0.0.0.0 forwrdnow
 
 # ===============================================================
 # Ad-Block
