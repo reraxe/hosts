@@ -87,7 +87,6 @@
 0.0.0.0 wsos.edu.ph
 0.0.0.0 ac.topaffiliates.net
 0.0.0.0 passplay.eu
-0.0.0.0 s.yimg.com
 
 # ===============================================================
 # Ad-Block
