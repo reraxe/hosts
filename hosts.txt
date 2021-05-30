@@ -24,6 +24,7 @@
 0.0.0.0 product.directredirection.com
 0.0.0.0 trk2vpn.xyz
 0.0.0.0 paulivern.com
+0.0.0.0 go.paulivern.com
 0.0.0.0 rdtrprotection.com
 0.0.0.0 kidoriman.com
 0.0.0.0 hurawatch.com
