@@ -1,11 +1,12 @@
 # ===============================================================
 # Title: reraxe/hosts
-# Block suspicious sites
-# https://github.com/reraxe/hosts
-# 0.0.0.0 example.com
+# About: Block suspicious sites
+# Link: https://github.com/reraxe/hosts
+# Example: 0.0.0.0 blockedsite.com
 
 # ===============================================================
-# HOSTS - 20210530
+# Updated: 20210530
+# Categories: Router Block // Web Surf Block - Malware // Ad-Block // Potenial Spyware
 
 # ===============================================================
 # Router Block
@@ -66,7 +67,7 @@
 0.0.0.0 browserpulse.com
 
 # ===============================================================
-# Web Surf Block / Malware
+# Web Surf Block - Malware
 0.0.0.0 adtng.com
 0.0.0.0 5dimes.com
 0.0.0.0 5dimes.eu
@@ -106,5 +107,5 @@
 
 # ===============================================================
 # Potenial Spyware
-190.111.25.133
-119.29.99.56
+0.0.0.0 190.111.25.133
+0.0.0.0 119.29.99.56
