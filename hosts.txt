@@ -28,6 +28,7 @@
 0.0.0.0 hurawatch.com
 0.0.0.0 official-netflix.com
 0.0.0.0 theartsofentertainment.com
+0.0.0.0 www.theartsofentertainment.com
 0.0.0.0 automall-online.com
 0.0.0.0 aiftrckr.com
 0.0.0.0 track.aiftrckr.com
