@@ -16,6 +16,7 @@
 0.0.0.0 cudominer.com
 0.0.0.0 unemploymentpua.com
 0.0.0.0 xtraffic.plus
+0.0.0.0 www.xtraffic.plus
 0.0.0.0 securitymobile.club
 0.0.0.0 protectyouriphone.com
 0.0.0.0 directredirection.com
