@@ -45,6 +45,7 @@
 0.0.0.0 movcloud.net
 0.0.0.0 api.movcloud.net
 0.0.0.0 sphuankhang.com
+0.0.0.0 www.sphuankhang.com
 0.0.0.0 jucydate.com
 0.0.0.0 m.jucydate.com
 0.0.0.0 gswnft.com
