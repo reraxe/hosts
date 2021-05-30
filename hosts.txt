@@ -38,6 +38,7 @@
 0.0.0.0 lpstrk.com
 0.0.0.0 2021dogecoin.xyz
 0.0.0.0 ualidarzi.com
+0.0.0.0 www.ualidarzi.com
 0.0.0.0 guce.instore.com
 0.0.0.0 instore.com
 0.0.0.0 guce.boxely.com
