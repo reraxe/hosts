@@ -12,6 +12,7 @@
 0.0.0.0 208.138.25.30
 0.0.0.0 190.111.25.133
 0.0.0.0 nowdatarecovery.com
+0.0.0.0 www.nowdatarecovery.com
 0.0.0.0 softserveclothing.com
 0.0.0.0 cudominer.com
 0.0.0.0 www.cudominer.com
