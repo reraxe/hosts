@@ -46,6 +46,7 @@
 0.0.0.0 api.movcloud.net
 0.0.0.0 sphuankhang.com
 0.0.0.0 jucydate.com
+0.0.0.0 m.jucydate.com
 0.0.0.0 gswnft.com
 0.0.0.0 datelively.com
 0.0.0.0 mineralscreamrobes.com
