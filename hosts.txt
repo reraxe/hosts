@@ -30,6 +30,7 @@
 0.0.0.0 theartsofentertainment.com
 0.0.0.0 automall-online.com
 0.0.0.0 aiftrckr.com
+0.0.0.0 track.aiftrckr.com
 0.0.0.0 beacons.page
 0.0.0.0 freesoftware.store
 0.0.0.0 lilacdefencelessroyal.com
