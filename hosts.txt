@@ -101,6 +101,7 @@
 0.0.0.0 passplay.eu
 0.0.0.0 urbeats.com
 0.0.0.0 linkonclick.com
+0.0.0.0 akamaized.net
 
 # ===============================================================
 # Ad-Block
