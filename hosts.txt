@@ -65,6 +65,7 @@
 0.0.0.0 theslutbay.com
 0.0.0.0 dolcesix.com
 0.0.0.0 browserpulse.com
+0.0.0.0 194.48.199.78
 
 # ===============================================================
 # Web Surf Block - Malware
