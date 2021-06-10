@@ -106,6 +106,7 @@
 0.0.0.0 akamaized.net
 0.0.0.0 mediaserver.partyaffiliates.com
 0.0.0.0 zadek.xyz
+0.0.0.0 mediasply.com
 
 # ===============================================================
 # Ad-Block
