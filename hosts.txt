@@ -105,6 +105,7 @@
 0.0.0.0 linkonclick.com
 0.0.0.0 akamaized.net
 0.0.0.0 mediaserver.partyaffiliates.com
+0.0.0.0 zadek.xyz
 
 # ===============================================================
 # Ad-Block
