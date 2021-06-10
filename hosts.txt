@@ -107,6 +107,7 @@
 0.0.0.0 mediaserver.partyaffiliates.com
 0.0.0.0 zadek.xyz
 0.0.0.0 mediasply.com
+0.0.0.0 linkonclick.com
 
 # ===============================================================
 # Ad-Block
