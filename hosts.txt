@@ -67,6 +67,8 @@
 0.0.0.0 browserpulse.com
 0.0.0.0 194.48.199.78
 0.0.0.0 ndywmr.com
+0.0.0.0 ttf.trmobc.com
+0.0.0.0 trmobc.com
 
 # ===============================================================
 # Web Surf Block - Malware
