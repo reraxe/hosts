@@ -111,6 +111,7 @@
 0.0.0.0 mediasply.com
 0.0.0.0 trmobc.com
 0.0.0.0 topbestvideos.com
+0.0.0.0 freestreams.org
 
 # ===============================================================
 # Ad-Block
