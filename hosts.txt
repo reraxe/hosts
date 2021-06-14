@@ -114,6 +114,8 @@
 0.0.0.0 freestreams.org
 0.0.0.0 netflix.shop
 0.0.0.0 usdailystore.com
+0.0.0.0 cws.conviva.com
+0.0.0.0 conviva.com
 
 # ===============================================================
 # Ad-Block
