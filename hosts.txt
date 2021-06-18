@@ -116,6 +116,8 @@
 0.0.0.0 usdailystore.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 conviva.com
+0.0.0.0 quote.usinsuranceonline.com
+0.0.0.0 usinsuranceonline.com
 
 # ===============================================================
 # Ad-Block
