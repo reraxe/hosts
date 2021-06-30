@@ -116,6 +116,7 @@
 0.0.0.0 conviva.com
 0.0.0.0 quote.usinsuranceonline.com
 0.0.0.0 usinsuranceonline.com
+0.0.0.0 cyberfinder.com
 
 # ===============================================================
 # Ad-Block
