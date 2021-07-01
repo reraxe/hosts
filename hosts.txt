@@ -67,6 +67,7 @@
 0.0.0.0 ndywmr.com
 0.0.0.0 ttf.trmobc.com
 0.0.0.0 trmobc.com
+0.0.0.0 geecostlow.shop
 
 # ===============================================================
 # Web Surf Block - Malware
