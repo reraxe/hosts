@@ -5,7 +5,6 @@
 # Example: 0.0.0.0 blockedsite.com
 
 # ===============================================================
-# Updated: 20210530
 # Categories: Router Block // Web Surf Block - Malware // Ad-Block // Potenial Spyware
 
 # ===============================================================
@@ -118,6 +117,7 @@
 0.0.0.0 quote.usinsuranceonline.com
 0.0.0.0 usinsuranceonline.com
 0.0.0.0 cyberfinder.com
+0.0.0.0 oddstoday.xyz
 
 # ===============================================================
 # Ad-Block
