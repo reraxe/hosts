@@ -137,3 +137,6 @@
 0.0.0.0 odm.toprwerio.com
 0.0.0.0 ureypom.com
 0.0.0.0 aredikk.com
+0.0.0.0 convivialmc.com
+0.0.0.0 srac.idv.tw
+0.0.0.0 guldsmeden@nymann.dk
