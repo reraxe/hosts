@@ -135,3 +135,5 @@
 # Email Spam
 0.0.0.0 qri.xernem.com
 0.0.0.0 odm.toprwerio.com
+0.0.0.0 ureypom.com
+0.0.0.0 aredikk.com
