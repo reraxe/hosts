@@ -144,3 +144,5 @@
 0.0.0.0 morad10.com
 0.0.0.0 tubdmwwnwqojoyo.sailthru.com
 0.0.0.0 alfndor.com
+0.0.0.0 eyornt.buzz
+0.0.0.0 verbolw.com
