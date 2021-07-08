@@ -149,3 +149,4 @@
 0.0.0.0 terpohed.com
 0.0.0.0 yemorlpe.com
 0.0.0.0 pckzsxb.tk
+0.0.0.0 weroum.com
