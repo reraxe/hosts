@@ -146,3 +146,5 @@
 0.0.0.0 alfndor.com
 0.0.0.0 eyornt.buzz
 0.0.0.0 verbolw.com
+0.0.0.0 terpohed.com
+0.0.0.0 yemorlpe.com
