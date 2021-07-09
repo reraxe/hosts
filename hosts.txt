@@ -151,3 +151,4 @@
 0.0.0.0 pckzsxb.tk
 0.0.0.0 weroum.com
 0.0.0.0 khoferd.com
+0.0.0.0 osmombe.buzz
