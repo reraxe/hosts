@@ -154,3 +154,5 @@
 0.0.0.0 osmombe.buzz
 0.0.0.0 penstre.buzz
 0.0.0.0 yuzqcbw.ml
+0.0.0.0 njcitizenaction.org
+0.0.0.0 mgmresorts.com
