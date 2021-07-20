@@ -67,6 +67,7 @@
 0.0.0.0 ttf.trmobc.com
 0.0.0.0 trmobc.com
 0.0.0.0 geecostlow.shop
+0.0.0.0 bonzer-whites.xyz
 
 # ===============================================================
 # Web Surf Block - Malware
