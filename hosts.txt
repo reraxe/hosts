@@ -68,6 +68,8 @@
 0.0.0.0 trmobc.com
 0.0.0.0 geecostlow.shop
 0.0.0.0 bonzer-whites.xyz
+0.0.0.0 www6.securybrowseapp.com
+0.0.0.0 securybrowseapp.com
 
 # ===============================================================
 # Web Surf Block - Malware
