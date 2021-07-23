@@ -165,3 +165,4 @@
 0.0.0.0 aphoubli.buzz
 0.0.0.0 dobbyte.buzz
 0.0.0.0 toprwerio.com
+0.0.0.0 havasattadurumu.server-on.net
