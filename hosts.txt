@@ -168,3 +168,4 @@
 0.0.0.0 havasattadurumu.server-on.net
 0.0.0.0 berklai.buzz
 0.0.0.0 zvbn61qvk177hl.w448b-84a0.berklai.buzz
+0.0.0.0 aradetbel.com
