@@ -173,3 +173,4 @@
 0.0.0.0 kwfisqzakapcrbb.mp
 0.0.0.0 rejaou.com
 0.0.0.0 pheronn.com
+0.0.0.0 neurigh.buzz
