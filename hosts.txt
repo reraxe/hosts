@@ -175,3 +175,4 @@
 0.0.0.0 pheronn.com
 0.0.0.0 neurigh.buzz
 0.0.0.0 humanewatch.org
+0.0.0.0 benegyne.us
