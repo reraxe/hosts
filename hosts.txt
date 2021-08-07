@@ -142,7 +142,7 @@
 0.0.0.0 aredikk.com
 0.0.0.0 convivialmc.com
 0.0.0.0 srac.idv.tw
-0.0.0.0 guldsmeden@nymann.dk
+0.0.0.0 nymann.dk
 0.0.0.0 lmveurqhtrqgsfc.sailthru.com
 0.0.0.0 morad10.com
 0.0.0.0 tubdmwwnwqojoyo.sailthru.com
