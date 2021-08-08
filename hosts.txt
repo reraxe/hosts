@@ -176,3 +176,5 @@
 0.0.0.0 neurigh.buzz
 0.0.0.0 humanewatch.org
 0.0.0.0 benegyne.us
+0.0.0.0 tittra.com
+0.0.0.0 bodhizone.com
