@@ -121,6 +121,7 @@
 0.0.0.0 usinsuranceonline.com
 0.0.0.0 cyberfinder.com
 0.0.0.0 oddstoday.xyz
+0.0.0.0 ads.trafficjunky.net
 
 # ===============================================================
 # Ad-Block
