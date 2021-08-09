@@ -128,6 +128,7 @@
 0.0.0.0 track.statstreck.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 a.adtng.com
+0.0.0.0 ht-cdn2.adtng.com
 
 # ===============================================================
 # Ad-Block
