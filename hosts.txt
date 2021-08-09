@@ -122,11 +122,14 @@
 0.0.0.0 cyberfinder.com
 0.0.0.0 oddstoday.xyz
 0.0.0.0 ads.trafficjunky.net
+0.0.0.0 trafficjunky.net
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 srv272a.com
 0.0.0.0 srv272b.com
 0.0.0.0 track.statstreck.com
+0.0.0.0 statstreck.com
 0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 adtng.com
 0.0.0.0 a.adtng.com
 0.0.0.0 ht-cdn2.adtng.com
 
