@@ -4,6 +4,7 @@
 # Link: https://github.com/reraxe/hosts
 # Example: 0.0.0.0 blockedsite.com
 (\.|^)test\.com$
+(\.|^)ward\.gg$
 
 # ===============================================================
 # Categories: Router Block // Web Surf Block - Malware // Ad-Block // Potenial Spyware
