@@ -3,6 +3,7 @@
 # About: Block suspicious sites
 # Link: https://github.com/reraxe/hosts
 # Example: 0.0.0.0 blockedsite.com
+(\.|^)test\.com$
 
 # ===============================================================
 # Categories: Router Block // Web Surf Block - Malware // Ad-Block // Potenial Spyware
