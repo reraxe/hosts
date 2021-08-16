@@ -135,6 +135,7 @@
 0.0.0.0 adtng.com
 0.0.0.0 a.adtng.com
 0.0.0.0 ht-cdn2.adtng.com
+0.0.0.0 netsystemsresearch.com
 
 # ===============================================================
 # Ad-Block
