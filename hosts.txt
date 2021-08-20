@@ -73,6 +73,7 @@
 0.0.0.0 bonzer-whites.xyz
 0.0.0.0 www6.securybrowseapp.com
 0.0.0.0 securybrowseapp.com
+0.0.0.0 bro3.biz
 
 # ===============================================================
 # Web Surf Block - Malware
