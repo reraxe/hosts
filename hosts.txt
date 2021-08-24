@@ -74,6 +74,8 @@
 0.0.0.0 www6.securybrowseapp.com
 0.0.0.0 securybrowseapp.com
 0.0.0.0 bro3.biz
+0.0.0.0 fdcbjh.datelocator24.com
+0.0.0.0 datelocator24.com
 
 # ===============================================================
 # Web Surf Block - Malware
