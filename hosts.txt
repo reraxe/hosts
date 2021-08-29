@@ -76,6 +76,7 @@
 0.0.0.0 bro3.biz
 0.0.0.0 fdcbjh.datelocator24.com
 0.0.0.0 datelocator24.com
+0.0.0.0 twuko.com
 
 # ===============================================================
 # Web Surf Block - Malware
