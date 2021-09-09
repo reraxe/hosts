@@ -143,6 +143,7 @@
 0.0.0.0 netsystemsresearch.com
 0.0.0.0 auctionbidder.xyz
 0.0.0.0 bettingoffer.live
+0.0.0.0 pipoga.xyz
 
 # ===============================================================
 # Ad-Block
