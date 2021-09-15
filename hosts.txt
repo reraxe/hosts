@@ -209,3 +209,4 @@
 0.0.0.0 prediss.us
 0.0.0.0 sustafai.buzz
 0.0.0.0 venturesendurance.com
+0.0.0.0 solidoll.com
