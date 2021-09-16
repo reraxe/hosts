@@ -210,3 +210,4 @@
 0.0.0.0 sustafai.buzz
 0.0.0.0 venturesendurance.com
 0.0.0.0 solidoll.com
+0.0.0.0 amlakis.buzz
