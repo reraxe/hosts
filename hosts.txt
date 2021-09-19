@@ -148,6 +148,7 @@
 0.0.0.0 auctionbidder.xyz
 0.0.0.0 bettingoffer.live
 0.0.0.0 pipoga.xyz
+0.0.0.0 soccerhockeyfans.com
 
 # ===============================================================
 # Ad-Block
