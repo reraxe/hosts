@@ -212,3 +212,4 @@
 0.0.0.0 venturesendurance.com
 0.0.0.0 solidoll.com
 0.0.0.0 amlakis.buzz
+0.0.0.0 cybertrade.co.za
