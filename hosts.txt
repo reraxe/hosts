@@ -82,6 +82,7 @@
 0.0.0.0 ww82.trafficsource222.com
 0.0.0.0 pcngyh.com
 0.0.0.0 walmarttd.shop
+0.0.0.0 handsofserenity.life
 
 # ===============================================================
 # Web Surf Block - Malware
