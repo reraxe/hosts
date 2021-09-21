@@ -83,6 +83,7 @@
 0.0.0.0 pcngyh.com
 0.0.0.0 walmarttd.shop
 0.0.0.0 handsofserenity.life
+0.0.0.0 mayerspuppiesfarm.com
 
 # ===============================================================
 # Web Surf Block - Malware
@@ -215,4 +216,3 @@
 0.0.0.0 amlakis.buzz
 0.0.0.0 cybertrade.co.za
 0.0.0.0 sealyte.us
-
