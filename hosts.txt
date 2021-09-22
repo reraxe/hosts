@@ -84,6 +84,7 @@
 0.0.0.0 walmarttd.shop
 0.0.0.0 handsofserenity.life
 0.0.0.0 mayerspuppiesfarm.com
+0.0.0.0 webuyhomes-4cash.org
 
 # ===============================================================
 # Web Surf Block - Malware
