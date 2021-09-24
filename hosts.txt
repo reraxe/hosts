@@ -85,6 +85,9 @@
 0.0.0.0 handsofserenity.life
 0.0.0.0 mayerspuppiesfarm.com
 0.0.0.0 webuyhomes-4cash.org
+0.0.0.0 cornerstore-traffic.com
+0.0.0.0 v.itonoow.com
+0.0.0.0 itonoow.com
 
 # ===============================================================
 # Web Surf Block - Malware
