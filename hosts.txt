@@ -222,3 +222,4 @@
 0.0.0.0 sealyte.us
 0.0.0.0 neurelus.buzz
 0.0.0.0 braddi.com
+0.0.0.0 orsori.com
