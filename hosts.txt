@@ -154,6 +154,7 @@
 0.0.0.0 auctionbidder.xyz
 0.0.0.0 bettingoffer.live
 0.0.0.0 pipoga.xyz
+0.0.0.0 env5-ma.tigertext.xyz
 
 # ===============================================================
 # Ad-Block
@@ -223,4 +224,5 @@
 0.0.0.0 neurelus.buzz
 0.0.0.0 braddi.com
 0.0.0.0 orsori.com
+0.0.0.0 shoopfine.com
 0.0.0.0 shoopfine.com
