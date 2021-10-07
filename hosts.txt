@@ -228,3 +228,4 @@
 0.0.0.0 shoopfine.com
 0.0.0.0 sorayber.com
 0.0.0.0 shooppro.com
+0.0.0.0 superrbearth.com
