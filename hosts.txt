@@ -155,6 +155,7 @@
 0.0.0.0 bettingoffer.live
 0.0.0.0 pipoga.xyz
 0.0.0.0 env5-ma.tigertext.xyz
+0.0.0.0 ubereatsl.com
 
 # ===============================================================
 # Ad-Block
