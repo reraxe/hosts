@@ -88,6 +88,8 @@
 0.0.0.0 cornerstore-traffic.com
 0.0.0.0 v.itonoow.com
 0.0.0.0 itonoow.com
+0.0.0.0 steepsquirrel.com
+0.0.0.0 mybetterdl.com
 
 # ===============================================================
 # Web Surf Block - Malware
