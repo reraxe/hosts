@@ -231,3 +231,4 @@
 0.0.0.0 shooppro.com
 0.0.0.0 superrbearth.com
 0.0.0.0 nirmazry.com
+0.0.0.0 fersomre.com
