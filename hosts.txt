@@ -235,3 +235,5 @@
 0.0.0.0 nirmazry.com
 0.0.0.0 fersomre.com
 0.0.0.0 fasttief.com
+0.0.0.0 foducation.com
+0.0.0.0 jhhgty.fersomre.com
