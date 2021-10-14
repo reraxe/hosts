@@ -90,6 +90,7 @@
 0.0.0.0 itonoow.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 mybetterdl.com
+0.0.0.0 lukomol.com
 
 # ===============================================================
 # Web Surf Block - Malware
