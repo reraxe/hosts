@@ -229,7 +229,6 @@
 0.0.0.0 braddi.com
 0.0.0.0 orsori.com
 0.0.0.0 shoopfine.com
-0.0.0.0 shoopfine.com
 0.0.0.0 sorayber.com
 0.0.0.0 shooppro.com
 0.0.0.0 superrbearth.com
@@ -241,3 +240,5 @@
 0.0.0.0 unifiedavthletics
 0.0.0.0 serlaze.com
 0.0.0.0 poremduntion.com
+0.0.0.0 rrhxtjvqsljbpngetuk.killfully.com
+0.0.0.0 killfully.com
