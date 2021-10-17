@@ -243,3 +243,5 @@
 0.0.0.0 rrhxtjvqsljbpngetuk.killfully.com
 0.0.0.0 killfully.com
 0.0.0.0 tessteur.com
+0.0.0.0 e1b6e329f157ds.w15bd-e062.sagecke.buzz
+0.0.0.0 sagecke.buzz
