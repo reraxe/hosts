@@ -245,3 +245,6 @@
 0.0.0.0 tessteur.com
 0.0.0.0 e1b6e329f157ds.w15bd-e062.sagecke.buzz
 0.0.0.0 sagecke.buzz
+0.0.0.0 ln96ocqupe14lr.w1.gatesidy.us
+0.0.0.0 w1.gatesidy.us
+0.0.0.0 gatesidy.us
