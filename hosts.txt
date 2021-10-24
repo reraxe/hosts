@@ -161,6 +161,7 @@
 0.0.0.0 env5-ma.tigertext.xyz
 0.0.0.0 ubereatsl.com
 0.0.0.0 linkonclick.com
+0.0.0.0 soccerhockeyfans.com
 
 # ===============================================================
 # Ad-Block
