@@ -253,3 +253,5 @@
 0.0.0.0 gatesidy.us
 0.0.0.0 beyterlcenter.com
 0.0.0.0 morad9.com
+0.0.0.0 mecodogial.com
+0.0.0.0 ha2oulo.com
