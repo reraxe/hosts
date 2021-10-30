@@ -260,3 +260,6 @@
 0.0.0.0 w21fb-a11e.blancep.us
 0.0.0.0 blancep.us
 0.0.0.0 rigmgfkqpzwpvbleetn.killfully.com
+0.0.0.0 xq3lxb5e9m94nvij17nz.pubmedia.br.com
+0.0.0.0 pubmedia.br.com
+0.0.0.0 br.com
