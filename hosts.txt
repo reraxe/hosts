@@ -265,3 +265,7 @@
 0.0.0.0 pubmedia.br.com
 0.0.0.0 br.com
 0.0.0.0 othhman1.com
+
+# ===============================================================
+# Text Messages Link
+0.0.0.0 meelos.co
