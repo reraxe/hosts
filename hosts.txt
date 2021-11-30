@@ -163,6 +163,7 @@
 0.0.0.0 ubereatsl.com
 0.0.0.0 soccerhockeyfans.com
 0.0.0.0 miro.medium.com
+0.0.0.0 tpucdn.com
 
 # ===============================================================
 # Ad-Block
