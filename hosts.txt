@@ -98,6 +98,9 @@
 0.0.0.0	trophyfresh.com
 0.0.0.0 obsterm.com
 0.0.0.0	nftcalendar.io
+0.0.0.0 terretemplari.it
+0.0.0.0 c.srvpcn.com
+0.0.0.0 srvpcn.com
 
 # ===============================================================
 # Web Surf Block - Malware
