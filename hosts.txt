@@ -101,6 +101,7 @@
 0.0.0.0 terretemplari.it
 0.0.0.0 c.srvpcn.com
 0.0.0.0 srvpcn.com
+0.0.0.0 pcnghw.com
 
 # ===============================================================
 # Web Surf Block - Malware
