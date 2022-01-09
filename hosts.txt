@@ -102,6 +102,7 @@
 0.0.0.0 c.srvpcn.com
 0.0.0.0 srvpcn.com
 0.0.0.0 pcnghw.com
+0.0.0.0 defenderss.com
 
 # ===============================================================
 # Web Surf Block - Malware
