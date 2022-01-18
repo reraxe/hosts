@@ -103,6 +103,8 @@
 0.0.0.0 srvpcn.com
 0.0.0.0 pcnghw.com
 0.0.0.0 defenderss.com
+0.0.0.0	www.nimalist-store.com
+0.0.0.0	nimalist-store.com
 
 # ===============================================================
 # Web Surf Block - Malware
