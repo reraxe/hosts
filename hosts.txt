@@ -105,6 +105,7 @@
 0.0.0.0 defenderss.com
 0.0.0.0	www.nimalist-store.com
 0.0.0.0	nimalist-store.com
+0.0.0.0 electricshop.com
 0.0.0.0 adultwest.shop
 
 # ===============================================================
