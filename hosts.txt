@@ -107,6 +107,7 @@
 0.0.0.0	nimalist-store.com
 0.0.0.0 electricshop.com
 0.0.0.0 adultwest.shop
+0.0.0.0 wadadliphonesanswers.com
 
 # ===============================================================
 # Web Surf Block - Malware
