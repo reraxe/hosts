@@ -109,6 +109,8 @@
 0.0.0.0 adultwest.shop
 0.0.0.0 wadadliphonesanswers.com
 0.0.0.0 theonlygames.com
+0.0.0.0 euro-book.net
+0.0.0.0 www.euro-book.net
 
 # ===============================================================
 # Web Surf Block - Malware
