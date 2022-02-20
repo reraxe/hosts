@@ -108,6 +108,7 @@
 0.0.0.0 electricshop.com
 0.0.0.0 adultwest.shop
 0.0.0.0 wadadliphonesanswers.com
+0.0.0.0 theonlygames.com
 
 # ===============================================================
 # Web Surf Block - Malware
