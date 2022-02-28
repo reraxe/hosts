@@ -111,6 +111,7 @@
 0.0.0.0 theonlygames.com
 0.0.0.0 euro-book.net
 0.0.0.0 www.euro-book.net
+0.0.0.0 scante.click
 
 # ===============================================================
 # Web Surf Block - Malware
