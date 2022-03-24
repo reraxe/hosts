@@ -291,6 +291,8 @@
 0.0.0.0 pubmedia.br.com
 0.0.0.0 br.com
 0.0.0.0 othhman1.com
+0.0.0.0 intellum.com
+0.0.0.0 amazonaws.com
 
 # ===============================================================
 # Text Messages Link
