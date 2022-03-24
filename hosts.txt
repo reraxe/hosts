@@ -293,6 +293,8 @@
 0.0.0.0 othhman1.com
 0.0.0.0 intellum.com
 0.0.0.0 amazonaws.com
+0.0.0.0 merestate.org
+
 
 # ===============================================================
 # Text Messages Link
