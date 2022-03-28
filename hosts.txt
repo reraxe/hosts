@@ -113,6 +113,8 @@
 0.0.0.0 www.euro-book.net
 0.0.0.0 scante.click
 0.0.0.0 lucky.fu1.day
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 wpadmngr.com
 
 # ===============================================================
 # Web Surf Block - Malware
