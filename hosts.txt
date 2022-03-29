@@ -296,7 +296,8 @@
 0.0.0.0 intellum.com
 0.0.0.0 amazonaws.com
 0.0.0.0 merestate.org
-
+0.0.0.0 szc.blackoffertoday.com
+0.0.0.0 blackoffertoday.com
 
 # ===============================================================
 # Text Messages Link
