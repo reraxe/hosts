@@ -190,6 +190,7 @@
 0.0.0.0 androidcleaners.net
 0.0.0.0 androidcleaners.com
 0.0.0.0 vipbitcoins.com
+0.0.0.0 streetaero.com
 
 # ===============================================================
 # Ad-Block
