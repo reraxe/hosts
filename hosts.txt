@@ -196,6 +196,7 @@
 # Ad-Block
 0.0.0.0 verizonmedia.com
 0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
 
 # ===============================================================
 # Router Two-Way Block
