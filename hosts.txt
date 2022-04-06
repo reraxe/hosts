@@ -302,6 +302,7 @@
 0.0.0.0 szc.blackoffertoday.com
 0.0.0.0 blackoffertoday.com
 0.0.0.0 eco-tko.ru
+0.0.0.0 emergencyemail.org
 
 # ===============================================================
 # Text Messages Link
