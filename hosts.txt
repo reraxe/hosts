@@ -191,6 +191,7 @@
 0.0.0.0 androidcleaners.com
 0.0.0.0 vipbitcoins.com
 0.0.0.0 streetaero.com
+0.0.0.0 rebrand.ly
 
 # ===============================================================
 # Ad-Block
