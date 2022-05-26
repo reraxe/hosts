@@ -195,6 +195,7 @@
 0.0.0.0 vipbitcoins.com
 0.0.0.0 streetaero.com
 0.0.0.0 rebrand.ly
+0.0.0.0 southmasalapic.com
 
 # ===============================================================
 # Ad-Block
