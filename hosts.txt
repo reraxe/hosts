@@ -198,6 +198,7 @@
 0.0.0.0 streetaero.com
 0.0.0.0 rebrand.ly
 0.0.0.0 southmasalapic.com
+0.0.0.0 faat.com
 
 # ===============================================================
 # Ad-Block
