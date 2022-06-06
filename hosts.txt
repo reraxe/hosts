@@ -118,6 +118,8 @@
 0.0.0.0 familysimulatorgames.com
 0.0.0.0 menuswithprice.com
 0.0.0.0 streetaero.com
+0.0.0.0 h.trey.shop
+0.0.0.0 trey.shop
 
 # ===============================================================
 # Web Surf Block - Malware
