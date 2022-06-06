@@ -120,6 +120,9 @@
 0.0.0.0 streetaero.com
 0.0.0.0 h.trey.shop
 0.0.0.0 trey.shop
+0.0.0.0	iyfbodn.com
+0.0.0.0 1496.booknower.com
+0.0.0.0 booknower.com
 
 # ===============================================================
 # Web Surf Block - Malware
