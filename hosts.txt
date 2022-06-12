@@ -124,6 +124,7 @@
 0.0.0.0 1496.booknower.com
 0.0.0.0 booknower.com
 0.0.0.0 iyfubh.com
+0.0.0.0	frameboxxindore.com
 
 # ===============================================================
 # Web Surf Block - Malware
