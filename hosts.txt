@@ -125,6 +125,7 @@
 0.0.0.0 booknower.com
 0.0.0.0 iyfubh.com
 0.0.0.0	frameboxxindore.com
+0.0.0.0 www.pairr.co
 
 # ===============================================================
 # Web Surf Block - Malware
