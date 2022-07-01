@@ -205,6 +205,8 @@
 0.0.0.0 rebrand.ly
 0.0.0.0 southmasalapic.com
 0.0.0.0 faat.com
+0.0.0.0 t.ajump.link
+0.0.0.0 ajump.link
 
 # ===============================================================
 # Ad-Block
