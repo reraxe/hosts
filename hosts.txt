@@ -127,6 +127,7 @@
 0.0.0.0	frameboxxindore.com
 0.0.0.0 www.pairr.co
 0.0.0.0 securesmcd.com
+0.0.0.0 terasca.com
 
 # ===============================================================
 # Web Surf Block - Malware
