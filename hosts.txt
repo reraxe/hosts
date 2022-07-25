@@ -335,6 +335,33 @@
 0.0.0.0 emergencyemail.org
 
 # ===============================================================
+# Edge
+0.0.0.0 ironsrc.mobi
+0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 dewrain.life
+0.0.0.0 int.dewrain.life
+0.0.0.0 int.vaicore.site
+0.0.0.0 vaicore.site
+0.0.0.0 vaicore.xyz
+0.0.0.0 int.vaicore.xyz
+0.0.0.0 dewrain.site
+0.0.0.0 int.dewrain.site
+0.0.0.0 int.akisinn.info
+0.0.0.0 akisinn.info
+0.0.0.0 www.imiclk.com
+0.0.0.0 imiclk.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 uuidksinc.net
+0.0.0.0 pinoytvlove.com
+0.0.0.0 www.pinoytvlove.com
+0.0.0.0 int.dewrain.world
+0.0.0.0 dewrain.world
+0.0.0.0 www.sunfounder.com
+0.0.0.0 sunfounder.com
+0.0.0.0 search.supplyframe.com
+0.0.0.0 co.dewrain.life
+
+# ===============================================================
 # Text Messages Link
 0.0.0.0 meelos.co
 0.0.0.0 meelos.com
