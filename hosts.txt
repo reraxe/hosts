@@ -368,13 +368,7 @@
 
 # ===============================================================
 # Most Blocked Domains by DNS
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 app-measurement.com
 0.0.0.0 analytics.localytics.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ads.flurry.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 www.googletagmanager.com
