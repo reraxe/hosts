@@ -368,8 +368,28 @@
 0.0.0.0 meelos.com
 
 # ===============================================================
-# Most Blocked Domains by DNS
+# Most Blocked Domains by External DNS
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 ads.flurry.com
+# 7/31/22
+0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 app-measurement.com
+0.0.0.0 telemetry-in.battle.net
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tvx.adgrx.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 api.segment.io
+0.0.0.0 firebase-settings.crashlytics.com
