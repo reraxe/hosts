@@ -129,6 +129,8 @@
 0.0.0.0 securesmcd.com
 0.0.0.0 terasca.com
 0.0.0.0 avoidthehack.com
+0.0.0.0 www.freebuyer.ru
+0.0.0.0 freebuyer.ru
 
 # ===============================================================
 # Web Surf Block - Malware
