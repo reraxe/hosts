@@ -365,6 +365,8 @@
 0.0.0.0 sunfounder.com
 0.0.0.0 search.supplyframe.com
 0.0.0.0 co.dewrain.life
+0.0.0.0 www.mynewrotationlink.com
+0.0.0.0 mynewrotationlink.com
 
 # ===============================================================
 # Text Messages Link
