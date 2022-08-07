@@ -370,9 +370,10 @@
 0.0.0.0 widgets.demand.exchange
 
 # ===============================================================
-# Text Messages Link
+# SMS Messages Link
 0.0.0.0 meelos.co
 0.0.0.0 meelos.com
+0.0.0.0 insnarebass.boutique
 
 # ===============================================================
 # Most Blocked Domains by External DNS
