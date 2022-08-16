@@ -1,0 +1,8 @@
+# ===============================================================
+# DNS Blocked
+0.0.0.0 www.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 geo.yahoo.com
+0.0.0.0 api3.siftscience.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 px4.ads.linkedin.com
