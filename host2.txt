@@ -6,3 +6,6 @@
 0.0.0.0 api3.siftscience.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 mid4.linkedin.com
+0.0.0.0 px4.ads.linkedin.com
