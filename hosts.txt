@@ -133,6 +133,7 @@
 0.0.0.0 freebuyer.ru
 0.0.0.0 download.filmastic.net
 0.0.0.0 filmastic.net
+0.0.0.0 gofinx.com
 
 # ===============================================================
 # Web Surf Block - Malware
