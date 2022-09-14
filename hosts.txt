@@ -135,6 +135,8 @@
 0.0.0.0 filmastic.net
 0.0.0.0 gofinx.com
 0.0.0.0 hookup-search.life
+0.0.0.0 www.us-pyzaj.us
+0.0.0.0 us-pyzaj.us
 
 # ===============================================================
 # Web Surf Block - Malware
