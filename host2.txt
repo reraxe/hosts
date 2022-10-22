@@ -101,3 +101,24 @@
 0.0.0.0 33490a8068184d69ac8e8a04a88c384b7ee3a9f7.cws.conviva.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 cdn-settings.segment.com
+
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 opus.analytics.yahoo.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 prod-ms.applovin.com
+0.0.0.0 tattle.api.osano.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 comoto.blueconic.net
+0.0.0.0 media.trafficjunky.com
+0.0.0.0 cdn9.forter.com
+0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 sdk.iad-03.appboy.com
+0.0.0.0 t.indeed.com
+0.0.0.0 mb.moatads.com
+0.0.0.0 api.vungle.com
+0.0.0.0 id.rlcdn.com
+0.0.0.0 ak.sail-horizon.com
+0.0.0.0 col.eum-appdynamics.com
+0.0.0.0 beacon.riskified.com
