@@ -137,6 +137,7 @@
 0.0.0.0 hookup-search.life
 0.0.0.0 www.us-pyzaj.us
 0.0.0.0 us-pyzaj.us
+0.0.0.0 yourtopdealstoday.com
 
 # ===============================================================
 # Web Surf Block - Malware
