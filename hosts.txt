@@ -138,6 +138,7 @@
 0.0.0.0 www.us-pyzaj.us
 0.0.0.0 us-pyzaj.us
 0.0.0.0 yourtopdealstoday.com
+0.0.0.0 snorefamiliarsiege.com
 
 # ===============================================================
 # Web Surf Block - Malware
