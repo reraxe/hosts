@@ -139,6 +139,7 @@
 0.0.0.0 us-pyzaj.us
 0.0.0.0 yourtopdealstoday.com
 0.0.0.0 snorefamiliarsiege.com
+0.0.0.0 bercioles.com
 
 # ===============================================================
 # Web Surf Block - Malware
