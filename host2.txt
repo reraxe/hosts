@@ -122,3 +122,35 @@
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 beacon.riskified.com
+
+#2023/3/7
+0.0.0.0 app.adjust.com
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 insights-collector.newrelic.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 pr.comet.yahoo.com
+0.0.0.0 prod-ms4.applovin.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 mon16-platform-useast5.us.tiktokv.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 log-ingestion.samsungacr.com
+0.0.0.0 track.thesaurus.com
+0.0.0.0 tmobile.demdex.net
+0.0.0.0 dynamic.criteo.com
+0.0.0.0 sdk-02.moengage.com
+0.0.0.0 sdk.iad-06.braze.com
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 cdn.krxd.net
+0.0.0.0 register.appsflyer.com
+0.0.0.0 metcon.hulu.com
+0.0.0.0 cdn.quantummetric.com
+0.0.0.0 api.instabug.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 api.apptentive.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 cdn.liftoff-creatives.io
