@@ -403,3 +403,7 @@
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 app-measurement.com
+
+# ===============================================================
+# CF
+0.0.0.0 prreqcroab.icu
