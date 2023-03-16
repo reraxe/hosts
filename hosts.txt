@@ -140,6 +140,7 @@
 0.0.0.0 yourtopdealstoday.com
 0.0.0.0 snorefamiliarsiege.com
 0.0.0.0 bercioles.com
+0.0.0.0 nxedge.cdndesk.com
 
 # ===============================================================
 # Web Surf Block - Malware
