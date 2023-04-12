@@ -141,6 +141,10 @@
 0.0.0.0 snorefamiliarsiege.com
 0.0.0.0 bercioles.com
 0.0.0.0 nxedge.cdndesk.com
+0.0.0.0 topatincompany.com
+0.0.0.0	www.lpredirect.com
+0.0.0.0	lpredirect.com
+0.0.0.0 btgarage.com
 
 # ===============================================================
 # Web Surf Block - Malware
