@@ -154,3 +154,21 @@
 0.0.0.0 api.apptentive.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 cdn.liftoff-creatives.io
+
+#2023/4/27 - ADG
+0.0.0.0 app.adjust.net.in
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 metric-api.newrelic.com
+0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 p.typekit.net
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 static.criteo.net
+0.0.0.0 vela.iad-01.braze.com
+0.0.0.0 pix.spot.im
+0.0.0.0 mcdp-nydc1.outbrain.com
+0.0.0.0 logs.browser-intake-datadoghq.com
+0.0.0.0 int.akisinn.site
+0.0.0.0 ib.adnxs.com
+0.0.0.0 rc.rlcdn.com
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 nexus.ensighten.com
