@@ -229,6 +229,7 @@
 0.0.0.0 dnsleaktest.net
 0.0.0.0 crekog.store
 0.0.0.0 bettingoffer.xyz
+0.0.0.0 yygszlgor.com
 
 # ===============================================================
 # Ad-Block
