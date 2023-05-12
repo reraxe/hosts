@@ -405,15 +405,5 @@
 0.0.0.0 insnarebass.boutique
 
 # ===============================================================
-# Most Blocked Domains by External DNS
-0.0.0.0 dit.whatsapp.net
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 analytics.localytics.com
-0.0.0.0 ads.flurry.com
-0.0.0.0 msmetrics.ws.sonos.com
-0.0.0.0 pixel.wp.com
-0.0.0.0 app-measurement.com
-
-# ===============================================================
 # CF
 0.0.0.0 prreqcroab.icu
