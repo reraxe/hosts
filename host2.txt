@@ -9,6 +9,7 @@
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 mid4.linkedin.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 dit.whatsapp.net
 
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 www.google-analytics.com
