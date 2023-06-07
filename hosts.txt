@@ -145,6 +145,17 @@
 0.0.0.0	www.lpredirect.com
 0.0.0.0	lpredirect.com
 0.0.0.0 btgarage.com
+0.0.0.0	www.lpredirect.com
+0.0.0.0 lpredirect.com
+0.0.0.0	topatincompany.com
+0.0.0.0	mario.movie
+0.0.0.0	quebmediatrack.com
+0.0.0.0	m.urologytip.pro
+0.0.0.0	urologytip.pro
+0.0.0.0	buyadvupfor24.com
+0.0.0.0	img2.bc.game
+0.0.0.0	bc.game
+0.0.0.0	static.heavy-r.com
 
 # ===============================================================
 # Web Surf Block - Malware
