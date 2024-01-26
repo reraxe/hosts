@@ -1,4 +1,4 @@
-# DNS Blocked
+#DNS Blocked
 www.googleadservices.com
 googleads.g.doubleclick.net
 geo.yahoo.com
@@ -133,6 +133,7 @@ ads.rubiconproject.com
 api.apptentive.com
 app-analytics-v2.snapchat.com
 cdn.liftoff-creatives.io
+
 #2023/4/27 - ADG
 app.adjust.net.in
 collect.analytics.unity3d.com
