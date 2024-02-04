@@ -85,3 +85,10 @@ logger.nerdwallet.com
 scripts.agilone.com
 js.datadome.co
 prod.report.nacustomerexperience.citi.com
+#20240204
+dit.whatsapp.net
+browser.events.data.msn.com
+c.amazon-adsystem.com
+metrics.icloud.com
+dpm.demdex.net
+launches.appsflyer.com
