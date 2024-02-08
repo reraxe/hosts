@@ -12,245 +12,249 @@
 
 # ===============================================================
 # Router Block
-0.0.0.0 nowdatarecovery.com
-0.0.0.0 www.nowdatarecovery.com
-0.0.0.0 softserveclothing.com
-0.0.0.0 cudominer.com
-0.0.0.0 www.cudominer.com
-0.0.0.0 unemploymentpua.com
-0.0.0.0 xtraffic.plus
-0.0.0.0 www.xtraffic.plus
-0.0.0.0 securitymobile.club
-0.0.0.0 protectyouriphone.com
-0.0.0.0 directredirection.com
-0.0.0.0 product.directredirection.com
-0.0.0.0 trk2vpn.xyz
-0.0.0.0 paulivern.com
-0.0.0.0 go.paulivern.com
-0.0.0.0 rdtrprotection.com
-0.0.0.0 kidoriman.com
-0.0.0.0 hurawatch.com
-0.0.0.0 official-netflix.com
-0.0.0.0 theartsofentertainment.com
-0.0.0.0 www.theartsofentertainment.com
-0.0.0.0 automall-online.com
-0.0.0.0 www.automall-online.com
-0.0.0.0 aiftrckr.com
-0.0.0.0 track.aiftrckr.com
-0.0.0.0 beacons.page
-0.0.0.0 freesoftware.store
-0.0.0.0 lilacdefencelessroyal.com
-0.0.0.0 rewardstraffic.com
-0.0.0.0 vast.gg
-0.0.0.0 msha.ke
-0.0.0.0 lpstrk.com
-0.0.0.0 2021dogecoin.xyz
-0.0.0.0 www.2021dogecoin.xyz
-0.0.0.0 ualidarzi.com
-0.0.0.0 www.ualidarzi.com
-0.0.0.0 guce.instore.com
-0.0.0.0 instore.com
-0.0.0.0 guce.boxely.com
-0.0.0.0 boxely.com
-0.0.0.0 movcloud.net
-0.0.0.0 api.movcloud.net
-0.0.0.0 sphuankhang.com
-0.0.0.0 www.sphuankhang.com
-0.0.0.0 jucydate.com
-0.0.0.0 m.jucydate.com
-0.0.0.0 gswnft.com
-0.0.0.0 datelively.com
-0.0.0.0 mineralscreamrobes.com
-0.0.0.0 www1.thepiratebay3.to
-0.0.0.0 theslutbay.com
-0.0.0.0 dolcesix.com
-0.0.0.0 browserpulse.com
-0.0.0.0 194.48.199.78
-0.0.0.0 ndywmr.com
-0.0.0.0 ttf.trmobc.com
-0.0.0.0 trmobc.com
-0.0.0.0 geecostlow.shop
-0.0.0.0 bonzer-whites.xyz
-0.0.0.0 www6.securybrowseapp.com
-0.0.0.0 securybrowseapp.com
-0.0.0.0 bro3.biz
-0.0.0.0 fdcbjh.datelocator24.com
-0.0.0.0 datelocator24.com
-0.0.0.0 twuko.com
-0.0.0.0 demotzincky.casa
-0.0.0.0 trafficsource222.com
-0.0.0.0 ww82.trafficsource222.com
-0.0.0.0 pcngyh.com
-0.0.0.0 walmarttd.shop
-0.0.0.0 handsofserenity.life
-0.0.0.0 mayerspuppiesfarm.com
-0.0.0.0 webuyhomes-4cash.org
-0.0.0.0 cornerstore-traffic.com
-0.0.0.0 v.itonoow.com
-0.0.0.0 itonoow.com
-0.0.0.0 steepsquirrel.com
-0.0.0.0 mybetterdl.com
-0.0.0.0 lukomol.com
-0.0.0.0 167.71.13.196
-0.0.0.0 asap.to
-0.0.0.0 int.vaicore.store
-0.0.0.0 vaicore.store
-0.0.0.0	trophyfresh.com
-0.0.0.0 obsterm.com
-0.0.0.0	nftcalendar.io
-0.0.0.0 terretemplari.it
-0.0.0.0 c.srvpcn.com
-0.0.0.0 srvpcn.com
-0.0.0.0 pcnghw.com
-0.0.0.0 defenderss.com
-0.0.0.0	www.nimalist-store.com
-0.0.0.0	nimalist-store.com
-0.0.0.0 electricshop.com
-0.0.0.0 adultwest.shop
-0.0.0.0 wadadliphonesanswers.com
-0.0.0.0 theonlygames.com
-0.0.0.0 euro-book.net
-0.0.0.0 www.euro-book.net
-0.0.0.0 scante.click
-0.0.0.0 lucky.fu1.day
-0.0.0.0 js.wpadmngr.com
-0.0.0.0 wpadmngr.com
-0.0.0.0 familysimulatorgames.com
-0.0.0.0 menuswithprice.com
-0.0.0.0 streetaero.com
-0.0.0.0 h.trey.shop
-0.0.0.0 trey.shop
-0.0.0.0	iyfbodn.com
-0.0.0.0 1496.booknower.com
-0.0.0.0 booknower.com
-0.0.0.0 iyfubh.com
-0.0.0.0	frameboxxindore.com
-0.0.0.0 www.pairr.co
-0.0.0.0 securesmcd.com
-0.0.0.0 terasca.com
-0.0.0.0 avoidthehack.com
-0.0.0.0 www.freebuyer.ru
-0.0.0.0 freebuyer.ru
-0.0.0.0 download.filmastic.net
-0.0.0.0 filmastic.net
-0.0.0.0 gofinx.com
-0.0.0.0 hookup-search.life
-0.0.0.0 www.us-pyzaj.us
-0.0.0.0 us-pyzaj.us
-0.0.0.0 yourtopdealstoday.com
-0.0.0.0 snorefamiliarsiege.com
-0.0.0.0 bercioles.com
-0.0.0.0 nxedge.cdndesk.com
-0.0.0.0 topatincompany.com
-0.0.0.0	www.lpredirect.com
-0.0.0.0	lpredirect.com
-0.0.0.0 btgarage.com
-0.0.0.0	www.lpredirect.com
-0.0.0.0 lpredirect.com
-0.0.0.0	topatincompany.com
-0.0.0.0	mario.movie
-0.0.0.0	quebmediatrack.com
-0.0.0.0	m.urologytip.pro
-0.0.0.0	urologytip.pro
-0.0.0.0	buyadvupfor24.com
-0.0.0.0	img2.bc.game
-0.0.0.0	bc.game
-0.0.0.0	static.heavy-r.com
+1496.booknower.com
+2021dogecoin.xyz
+adultwest.shop
+aiftrckr.com
+api.movcloud.net
+asap.to
+automall-online.com
+avoidthehack.com
+beacons.page
+bercioles.com
+bonzer-whites.xyz
+booknower.com
+boxely.com
+bro3.biz
+browserpulse.com
+btgarage.com
+c.srvpcn.com
+cornerstore-traffic.com
+cudominer.com
+datelively.com
+datelocator24.com
+defenderss.com
+demotzincky.casa
+directredirection.com
+dolcesix.com
+download.filmastic.net
+electricshop.com
+euro-book.net
+familysimulatorgames.com
+fdcbjh.datelocator24.com
+filmastic.net
+freebuyer.ru
+freesoftware.store
+geecostlow.shop
+go.paulivern.com
+gofinx.com
+gswnft.com
+guce.boxely.com
+guce.instore.com
+h.trey.shop
+handsofserenity.life
+hookup-search.life
+hurawatch.com
+instore.com
+int.vaicore.store
+itonoow.com
+iyfubh.com
+js.wpadmngr.com
+jucydate.com
+kidoriman.com
+lilacdefencelessroyal.com
+lpredirect.com
+lpstrk.com
+lucky.fu1.day
+lukomol.com
+m.jucydate.com
+mayerspuppiesfarm.com
+menuswithprice.com
+mineralscreamrobes.com
+movcloud.net
+msha.ke
+mybetterdl.com
+ndywmr.com
+nowdatarecovery.com
+nxedge.cdndesk.com
+obsterm.com
+official-netflix.com
+paulivern.com
+pcnghw.com
+pcngyh.com
+product.directredirection.com
+protectyouriphone.com
+rdtrprotection.com
+rewardstraffic.com
+scante.click
+securesmcd.com
+securitymobile.club
+securybrowseapp.com
+snorefamiliarsiege.com
+softserveclothing.com
+sphuankhang.com
+srvpcn.com
+steepsquirrel.com
+streetaero.com
+terasca.com
+terretemplari.it
+theartsofentertainment.com
+theonlygames.com
+theslutbay.com
+topatincompany.com
+track.aiftrckr.com
+trafficsource222.com
+trey.shop
+trk2vpn.xyz
+trmobc.com
+ttf.trmobc.com
+twuko.com
+ualidarzi.com
+unemploymentpua.com
+us-pyzaj.us
+v.itonoow.com
+vaicore.store
+vast.gg
+wadadliphonesanswers.com
+walmarttd.shop
+webuyhomes-4cash.org
+wpadmngr.com
+ww82.trafficsource222.com
+www.2021dogecoin.xyz
+www.automall-online.com
+www.cudominer.com
+www.euro-book.net
+www.freebuyer.ru
+www.nowdatarecovery.com
+www.pairr.co
+www.sphuankhang.com
+www.theartsofentertainment.com
+www.ualidarzi.com
+www.us-pyzaj.us
+www.xtraffic.plus
+www1.thepiratebay3.to
+www6.securybrowseapp.com
+xtraffic.plus
+yourtopdealstoday.com
+iyfbodn.com
+frameboxxindore.com
+www.lpredirect.com
+mario.movie
+quebmediatrack.com
+m.urologytip.pro
+urologytip.pro
+buyadvupfor24.com
+img2.bc.game
+bc.game
+trophyfresh.com
+www.nimalist-store.com
+nimalist-store.com
+static.heavy-r.com
+lucazepa.com
+bctxt.co
+select.blacklinetosplit.com
+strongesthaste.com
+www.ceurwa.com
+track.aftrk3.com
+ww5.mangakakalot.tv
+readm.org
 
 # ===============================================================
 # Web Surf Block - Malware
-0.0.0.0 adtng.com
-0.0.0.0 5dimes.com
-0.0.0.0 5dimes.eu
-0.0.0.0 5d.com
-0.0.0.0 trafficjunky.com
-0.0.0.0 loptrk.com
-0.0.0.0 streamsforfree.xyz
-0.0.0.0 passplay.com
-0.0.0.0 netserver674.ga
-0.0.0.0 safesoftware.click
-0.0.0.0 hipfowlzeal.icu
-0.0.0.0 hychepsachi.pro
-0.0.0.0 visainformation.info
-0.0.0.0 coluami.com
-0.0.0.0 gmailc.com
-0.0.0.0 betanysports.eu
-0.0.0.0 teamskeet.com
-0.0.0.0 bernardchuaproperty.com
-0.0.0.0 ad.com
-0.0.0.0 affiliates.betanysports.eu
-0.0.0.0 locktv.xyz
-0.0.0.0 jazzsports.ag
-0.0.0.0 bitspawn.com
-0.0.0.0 slicdeals.net
-0.0.0.0 vcdc.com
-0.0.0.0 forwrdnow
-0.0.0.0 rallysportsdirect.com
-0.0.0.0 earnets.com
-0.0.0.0 wsos.edu.ph
-0.0.0.0 ac.topaffiliates.net
-0.0.0.0 passplay.eu
-0.0.0.0 urbeats.com
-0.0.0.0 linkonclick.com
-0.0.0.0 akamaized.net
-0.0.0.0 mediaserver.partyaffiliates.com
-0.0.0.0 zadek.xyz
-0.0.0.0 mediasply.com
-0.0.0.0 trmobc.com
-0.0.0.0 topbestvideos.com
-0.0.0.0 freestreams.org
-0.0.0.0 netflix.shop
-0.0.0.0 usdailystore.com
-0.0.0.0 cws.conviva.com
-0.0.0.0 conviva.com
-0.0.0.0 quote.usinsuranceonline.com
-0.0.0.0 usinsuranceonline.com
-0.0.0.0 cyberfinder.com
-0.0.0.0 oddstoday.xyz
-0.0.0.0 ads.trafficjunky.net
-0.0.0.0 trafficjunky.net
-0.0.0.0 hw-cdn.trafficjunky.net
-0.0.0.0 srv272a.com
-0.0.0.0 srv272b.com
-0.0.0.0 track.statstreck.com
-0.0.0.0 statstreck.com
-0.0.0.0 hw-cdn2.adtng.com
-0.0.0.0 adtng.com
-0.0.0.0 a.adtng.com
-0.0.0.0 ht-cdn2.adtng.com
-0.0.0.0 netsystemsresearch.com
-0.0.0.0 auctionbidder.xyz
-0.0.0.0 bettingoffer.live
-0.0.0.0 pipoga.xyz
-0.0.0.0 env5-ma.tigertext.xyz
-0.0.0.0 ubereatsl.com
-0.0.0.0 soccerhockeyfans.com
-0.0.0.0 miro.medium.com
-0.0.0.0 fidelit.com
-0.0.0.0 disnetplus.com
-0.0.0.0 androidcleaners.net
-0.0.0.0 androidcleaners.com
-0.0.0.0 vipbitcoins.com
-0.0.0.0 streetaero.com
-0.0.0.0 rebrand.ly
-0.0.0.0 southmasalapic.com
-0.0.0.0 faat.com
-0.0.0.0 t.ajump.link
-0.0.0.0 ajump.link
-0.0.0.0 dnsleaktest.net
-0.0.0.0 crekog.store
-0.0.0.0 bettingoffer.xyz
-0.0.0.0 yygszlgor.com
+adtng.com
+5dimes.com
+5dimes.eu
+5d.com
+trafficjunky.com
+loptrk.com
+streamsforfree.xyz
+passplay.com
+netserver674.ga
+safesoftware.click
+hipfowlzeal.icu
+hychepsachi.pro
+visainformation.info
+coluami.com
+gmailc.com
+betanysports.eu
+teamskeet.com
+bernardchuaproperty.com
+ad.com
+affiliates.betanysports.eu
+locktv.xyz
+jazzsports.ag
+bitspawn.com
+slicdeals.net
+vcdc.com
+forwrdnow
+rallysportsdirect.com
+earnets.com
+wsos.edu.ph
+ac.topaffiliates.net
+passplay.eu
+urbeats.com
+linkonclick.com
+akamaized.net
+mediaserver.partyaffiliates.com
+zadek.xyz
+mediasply.com
+trmobc.com
+topbestvideos.com
+freestreams.org
+netflix.shop
+usdailystore.com
+cws.conviva.com
+conviva.com
+quote.usinsuranceonline.com
+usinsuranceonline.com
+cyberfinder.com
+oddstoday.xyz
+ads.trafficjunky.net
+trafficjunky.net
+hw-cdn.trafficjunky.net
+srv272a.com
+srv272b.com
+track.statstreck.com
+statstreck.com
+hw-cdn2.adtng.com
+adtng.com
+a.adtng.com
+ht-cdn2.adtng.com
+netsystemsresearch.com
+auctionbidder.xyz
+bettingoffer.live
+pipoga.xyz
+env5-ma.tigertext.xyz
+ubereatsl.com
+soccerhockeyfans.com
+miro.medium.com
+fidelit.com
+disnetplus.com
+androidcleaners.net
+androidcleaners.com
+vipbitcoins.com
+streetaero.com
+rebrand.ly
+southmasalapic.com
+faat.com
+t.ajump.link
+ajump.link
+dnsleaktest.net
+crekog.store
+bettingoffer.xyz
+yygszlgor.com
 
 # ===============================================================
 # Ad-Block
-0.0.0.0 verizonmedia.com
-0.0.0.0 doubleclick.net
-0.0.0.0 googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
+verizonmedia.com
+doubleclick.net
+googlesyndication.com
+tpc.googlesyndication.com
 
 # ===============================================================
-# Router Two-Way Block
+# Router Two-Way IP Block
+167.71.13.196
+194.48.199.78
 190.111.25.133
 208.138.25.30
 194.48.199.78
@@ -263,7 +267,6 @@
 109.74.204.123
 46.17.102.54
 2.56.59.20
-2.56.59.62
 172.65.200.133
 88.80.186.144
 31.7.58.162
@@ -313,141 +316,193 @@
 171.121.101.225
 75.73.65.93
 5.39.220.78
+1.169.176.72
+108.54.49.179
+109.121.200.187
+112.168.209.244
+115.21.230.75
+115.23.22.12
+118.40.249.86
+118.46.95.64
+120.157.32.65
+121.128.26.27
+121.137.147.50
+121.140.11.171
+121.164.82.32
+126.127.219.208
+14.55.75.4
+144.129.124.122
+153.125.123.28
+173.170.102.96
+176.97.210.229
+179.57.184.233
+180.34.0.212
+181.30.97.246
+182.93.90.253
+183.99.15.133
+185.225.75.21
+190.14.213.186
+198.2.51.210
+203.218.171.207
+206.0.225.225
+211.63.167.125
+213.80.50.94
+218.144.211.189
+220.161.13.104
+221.146.249.22
+222.105.145.56
+223.99.62.140
+24.63.60.15
+24.89.135.252
+31.179.149.238
+38.222.104.206
+38.222.43.176
+38.222.50.131
+59.9.85.28
+61.77.39.173
+61.82.7.177
+71.42.130.37
+71.56.130.229
+79.174.185.226
+81.211.101.138
+88.146.120.15
+89.101.243.214
+93.42.192.66
+95.6.3.168
 
 # ===============================================================
 # Email Spam
-0.0.0.0 qri.xernem.com
-0.0.0.0 odm.toprwerio.com
-0.0.0.0 ureypom.com
-0.0.0.0 aredikk.com
-0.0.0.0 convivialmc.com
-0.0.0.0 srac.idv.tw
-0.0.0.0 nymann.dk
-0.0.0.0 lmveurqhtrqgsfc.sailthru.com
-0.0.0.0 morad10.com
-0.0.0.0 tubdmwwnwqojoyo.sailthru.com
-0.0.0.0 alfndor.com
-0.0.0.0 eyornt.buzz
-0.0.0.0 verbolw.com
-0.0.0.0 terpohed.com
-0.0.0.0 yemorlpe.com
-0.0.0.0 pckzsxb.tk
-0.0.0.0 weroum.com
-0.0.0.0 khoferd.com
-0.0.0.0 osmombe.buzz
-0.0.0.0 penstre.buzz
-0.0.0.0 yuzqcbw.ml
-0.0.0.0 njcitizenaction.org
-0.0.0.0 mgmresorts.com
-0.0.0.0 surveyresearchleaders.com
-0.0.0.0 jermapol.com
-0.0.0.0 server-on.net
-0.0.0.0 aphoubli.buzz
-0.0.0.0 dobbyte.buzz
-0.0.0.0 toprwerio.com
-0.0.0.0 havasattadurumu.server-on.net
-0.0.0.0 berklai.buzz
-0.0.0.0 zvbn61qvk177hl.w448b-84a0.berklai.buzz
-0.0.0.0 aradetbel.com
-0.0.0.0 server-on.net
-0.0.0.0 kwfisqzakapcrbb.mp
-0.0.0.0 rejaou.com
-0.0.0.0 pheronn.com
-0.0.0.0 neurigh.buzz
-0.0.0.0 humanewatch.org
-0.0.0.0 benegyne.us
-0.0.0.0 tittra.com
-0.0.0.0 bodhizone.com
-0.0.0.0 invalidemail.com
-0.0.0.0 qohfdvqr.ml
-0.0.0.0 prediss.us
-0.0.0.0 sustafai.buzz
-0.0.0.0 venturesendurance.com
-0.0.0.0 solidoll.com
-0.0.0.0 amlakis.buzz
-0.0.0.0 cybertrade.co.za
-0.0.0.0 sealyte.us
-0.0.0.0 neurelus.buzz
-0.0.0.0 braddi.com
-0.0.0.0 orsori.com
-0.0.0.0 shoopfine.com
-0.0.0.0 sorayber.com
-0.0.0.0 shooppro.com
-0.0.0.0 superrbearth.com
-0.0.0.0 nirmazry.com
-0.0.0.0 fersomre.com
-0.0.0.0 fasttief.com
-0.0.0.0 foducation.com
-0.0.0.0 jhhgty.fersomre.com
-0.0.0.0 unifiedavthletics
-0.0.0.0 serlaze.com
-0.0.0.0 poremduntion.com
-0.0.0.0 rrhxtjvqsljbpngetuk.killfully.com
-0.0.0.0 killfully.com
-0.0.0.0 tessteur.com
-0.0.0.0 e1b6e329f157ds.w15bd-e062.sagecke.buzz
-0.0.0.0 sagecke.buzz
-0.0.0.0 ln96ocqupe14lr.w1.gatesidy.us
-0.0.0.0 w1.gatesidy.us
-0.0.0.0 gatesidy.us
-0.0.0.0 beyterlcenter.com
-0.0.0.0 morad9.com
-0.0.0.0 mecodogial.com
-0.0.0.0 ha2oulo.com
-0.0.0.0 tewlzuom.com
-0.0.0.0 iz97roildq1eeg.w21fb-a11e.blancep.us
-0.0.0.0 w21fb-a11e.blancep.us
-0.0.0.0 blancep.us
-0.0.0.0 rigmgfkqpzwpvbleetn.killfully.com
-0.0.0.0 xq3lxb5e9m94nvij17nz.pubmedia.br.com
-0.0.0.0 pubmedia.br.com
-0.0.0.0 br.com
-0.0.0.0 othhman1.com
-0.0.0.0 intellum.com
-0.0.0.0 amazonaws.com
-0.0.0.0 merestate.org
-0.0.0.0 szc.blackoffertoday.com
-0.0.0.0 blackoffertoday.com
-0.0.0.0 eco-tko.ru
-0.0.0.0 emergencyemail.org
-0.0.0.0 uidfhjf.ml
+qri.xernem.com
+odm.toprwerio.com
+ureypom.com
+aredikk.com
+convivialmc.com
+srac.idv.tw
+nymann.dk
+lmveurqhtrqgsfc.sailthru.com
+morad10.com
+tubdmwwnwqojoyo.sailthru.com
+alfndor.com
+eyornt.buzz
+verbolw.com
+terpohed.com
+yemorlpe.com
+pckzsxb.tk
+weroum.com
+khoferd.com
+osmombe.buzz
+penstre.buzz
+yuzqcbw.ml
+njcitizenaction.org
+mgmresorts.com
+surveyresearchleaders.com
+jermapol.com
+server-on.net
+aphoubli.buzz
+dobbyte.buzz
+toprwerio.com
+havasattadurumu.server-on.net
+berklai.buzz
+zvbn61qvk177hl.w448b-84a0.berklai.buzz
+aradetbel.com
+kwfisqzakapcrbb.mp
+rejaou.com
+pheronn.com
+neurigh.buzz
+humanewatch.org
+benegyne.us
+tittra.com
+bodhizone.com
+invalidemail.com
+qohfdvqr.ml
+prediss.us
+sustafai.buzz
+venturesendurance.com
+solidoll.com
+amlakis.buzz
+cybertrade.co.za
+sealyte.us
+neurelus.buzz
+braddi.com
+orsori.com
+shoopfine.com
+sorayber.com
+shooppro.com
+superrbearth.com
+nirmazry.com
+fersomre.com
+fasttief.com
+foducation.com
+jhhgty.fersomre.com
+unifiedavthletics
+serlaze.com
+poremduntion.com
+rrhxtjvqsljbpngetuk.killfully.com
+killfully.com
+tessteur.com
+e1b6e329f157ds.w15bd-e062.sagecke.buzz
+sagecke.buzz
+ln96ocqupe14lr.w1.gatesidy.us
+w1.gatesidy.us
+gatesidy.us
+beyterlcenter.com
+morad9.com
+mecodogial.com
+ha2oulo.com
+tewlzuom.com
+iz97roildq1eeg.w21fb-a11e.blancep.us
+w21fb-a11e.blancep.us
+blancep.us
+rigmgfkqpzwpvbleetn.killfully.com
+xq3lxb5e9m94nvij17nz.pubmedia.br.com
+pubmedia.br.com
+br.com
+othhman1.com
+intellum.com
+amazonaws.com
+merestate.org
+szc.blackoffertoday.com
+blackoffertoday.com
+eco-tko.ru
+emergencyemail.org
+uidfhjf.ml
 
 # ===============================================================
 # Edge
-0.0.0.0 ironsrc.mobi
-0.0.0.0 logs.ironsrc.mobi
-0.0.0.0 dewrain.life
-0.0.0.0 int.dewrain.life
-0.0.0.0 int.vaicore.site
-0.0.0.0 vaicore.site
-0.0.0.0 vaicore.xyz
-0.0.0.0 int.vaicore.xyz
-0.0.0.0 dewrain.site
-0.0.0.0 int.dewrain.site
-0.0.0.0 int.akisinn.info
-0.0.0.0 akisinn.info
-0.0.0.0 www.imiclk.com
-0.0.0.0 imiclk.com
-0.0.0.0 s.uuidksinc.net
-0.0.0.0 uuidksinc.net
-0.0.0.0 pinoytvlove.com
-0.0.0.0 www.pinoytvlove.com
-0.0.0.0 int.dewrain.world
-0.0.0.0 dewrain.world
-0.0.0.0 www.sunfounder.com
-0.0.0.0 sunfounder.com
-0.0.0.0 search.supplyframe.com
-0.0.0.0 co.dewrain.life
-0.0.0.0 www.mynewrotationlink.com
-0.0.0.0 mynewrotationlink.com
-0.0.0.0 widgets.demand.exchange
+ironsrc.mobi
+logs.ironsrc.mobi
+dewrain.life
+int.dewrain.life
+int.vaicore.site
+vaicore.site
+vaicore.xyz
+int.vaicore.xyz
+dewrain.site
+int.dewrain.site
+int.akisinn.info
+akisinn.info
+www.imiclk.com
+imiclk.com
+s.uuidksinc.net
+uuidksinc.net
+pinoytvlove.com
+www.pinoytvlove.com
+int.dewrain.world
+dewrain.world
+www.sunfounder.com
+sunfounder.com
+search.supplyframe.com
+co.dewrain.life
+www.mynewrotationlink.com
+mynewrotationlink.com
+widgets.demand.exchange
 
 # ===============================================================
 # SMS Messages Link
-0.0.0.0 meelos.co
-0.0.0.0 meelos.com
-0.0.0.0 insnarebass.boutique
+meelos.co
+meelos.com
+insnarebass.boutique
 
 # ===============================================================
 # CF
-0.0.0.0 prreqcroab.icu
+prreqcroab.icu
