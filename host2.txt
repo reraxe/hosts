@@ -92,3 +92,14 @@ c.amazon-adsystem.com
 metrics.icloud.com
 dpm.demdex.net
 launches.appsflyer.com
+#20240307
+googleads.g.doubleclick.net
+geo.yahoo.com
+c.msn.com
+mads.amazon-adsystem.com
+ca.iadsdk.apple.com
+ms.applovin.com
+inapps.appsflyer.com
+cc-api-data.adobe.io
+configv2.unityads.unity3d.com
+beacon.shazam.com
