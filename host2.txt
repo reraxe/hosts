@@ -103,3 +103,9 @@ inapps.appsflyer.com
 cc-api-data.adobe.io
 configv2.unityads.unity3d.com
 beacon.shazam.com
+#20240410
+d3p8zr0ffa9t17.cloudfront.net
+eus.r.inmobi.com
+vg-new-hb.mtgglobals.com
+ad.doubleclick.net
+e.channelexco.com
