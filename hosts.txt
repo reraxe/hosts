@@ -375,6 +375,46 @@ tpc.googlesyndication.com
 87.27.146.109
 
 # ===============================================================
+# Edge
+ironsrc.mobi
+logs.ironsrc.mobi
+dewrain.life
+int.dewrain.life
+int.vaicore.site
+vaicore.site
+vaicore.xyz
+int.vaicore.xyz
+dewrain.site
+int.dewrain.site
+int.akisinn.info
+akisinn.info
+www.imiclk.com
+imiclk.com
+s.uuidksinc.net
+uuidksinc.net
+pinoytvlove.com
+www.pinoytvlove.com
+int.dewrain.world
+dewrain.world
+www.sunfounder.com
+sunfounder.com
+search.supplyframe.com
+co.dewrain.life
+www.mynewrotationlink.com
+mynewrotationlink.com
+widgets.demand.exchange
+
+# ===============================================================
+# SMS Messages Link
+meelos.co
+meelos.com
+insnarebass.boutique
+
+# ===============================================================
+# CF
+prreqcroab.icu
+
+# ===============================================================
 # Email Spam
 qri.xernem.com
 odm.toprwerio.com
@@ -470,43 +510,3 @@ eco-tko.ru
 emergencyemail.org
 uidfhjf.ml
 flashor.net
-
-# ===============================================================
-# Edge
-ironsrc.mobi
-logs.ironsrc.mobi
-dewrain.life
-int.dewrain.life
-int.vaicore.site
-vaicore.site
-vaicore.xyz
-int.vaicore.xyz
-dewrain.site
-int.dewrain.site
-int.akisinn.info
-akisinn.info
-www.imiclk.com
-imiclk.com
-s.uuidksinc.net
-uuidksinc.net
-pinoytvlove.com
-www.pinoytvlove.com
-int.dewrain.world
-dewrain.world
-www.sunfounder.com
-sunfounder.com
-search.supplyframe.com
-co.dewrain.life
-www.mynewrotationlink.com
-mynewrotationlink.com
-widgets.demand.exchange
-
-# ===============================================================
-# SMS Messages Link
-meelos.co
-meelos.com
-insnarebass.boutique
-
-# ===============================================================
-# CF
-prreqcroab.icu
