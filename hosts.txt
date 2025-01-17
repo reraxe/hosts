@@ -402,6 +402,7 @@ widgets.demand.exchange
 meelos.co
 meelos.com
 insnarebass.boutique
+seatsnshort.com
 
 # ===============================================================
 # CF
